@@ -1,7 +1,7 @@
 Serverless Pattern with API Gateway und Lambdafunktion
 
-This repo is a companion repo to the https://waswani.medium.com/serverless-architecture-patterns-in-aws-edeab0e46a32
-tutorial.
+This repo is build by this overview. https://waswani.medium.com/serverless-architecture-patterns-in-aws-edeab0e46a32
+
 
 Todo:
 Architektur in Infra as Code umwandeln (Terraform)
